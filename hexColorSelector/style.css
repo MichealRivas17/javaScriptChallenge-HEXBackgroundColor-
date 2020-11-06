@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+button {
+    position: relative;
+    margin-left: 80px;
+    padding: 5px 20px 5px 20px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 20px; 
+    color: #ffffff;
+}
+
+.container {
+    display: block;
+    margin-top: 15%;
+    margin-left: 40%;
+    align-content: center;
+    justify-content: center; 
+}
+
